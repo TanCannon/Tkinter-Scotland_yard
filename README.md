@@ -29,12 +29,7 @@ Have fun!😊
     
 ## Documentation
 
-[How to use this GUI](https://github.com/TanCannon/Tkinter-Scotland_yard/blob/main/How_to_use.txt)
-
 [Game rules](https://github.com/TanCannon/Tkinter-Scotland_yard/blob/main/Rules.pdf)
-
-
-
 
 ## Issues
 
