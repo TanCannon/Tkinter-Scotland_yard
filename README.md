@@ -18,12 +18,14 @@ Screenshot(31)
 
 ![App Screenshot](https://github.com/TanCannon/Tkinter-Scotland_yard/blob/main/Screenshots/Screenshot%20(31).png)
 
-More screenshots here https://github.com/TanCannon/Tkinter-Scotland_yard/tree/main/Screenshots
+More screenshots [here](https://github.com/TanCannon/Tkinter-Scotland_yard/tree/main/Screenshots)
 
 ## Installation
 
-Download the Scotland_Yard.exe zip folder
-Unzip it in ur laptop and look for the Scotland  yard exe in it . That's the application.
+Download the [Scotland_Yard_exe.zip](https://github.com/TanCannon/Tkinter-Scotland_yard/releases)
+
+Unzip it in your laptop and look for the Scotland yard exe in it . That's the application.
+Have fun!😊
     
 ## Documentation
 
