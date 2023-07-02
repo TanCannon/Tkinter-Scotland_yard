@@ -10,8 +10,15 @@ It's made with Tkinter module in python. The program uses a other similar module
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Screenshot(25)
 
+![App Screenshot](https://github.com/TanCannon/Tkinter-Scotland_yard/blob/main/Screenshots/Screenshot%20(25).png)
+
+Screenshot(31)
+
+![App Screenshot](https://github.com/TanCannon/Tkinter-Scotland_yard/blob/main/Screenshots/Screenshot%20(31).png)
+
+More screenshots here https://github.com/TanCannon/Tkinter-Scotland_yard/tree/main/Screenshots
 
 ## Installation
 
@@ -20,7 +27,11 @@ Unzip it in ur laptop and look for the Scotland  yard exe in it . That's the app
     
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[How to use this GUI](https://github.com/TanCannon/Tkinter-Scotland_yard/blob/main/How_to_use.txt)
+
+[Game rules](https://github.com/TanCannon/Tkinter-Scotland_yard/blob/main/Rules.pdf)
+
+
 
 
 ## Issues
@@ -32,8 +43,12 @@ The code is ain't efficient yet.
 ## Future Goals
 
 I will want to add animation to player pieces and other stuff.
+
 Add sounds too.
+
 A continue functionality.
+
 Map zooming option.
+
 And the most important responsive.
 
