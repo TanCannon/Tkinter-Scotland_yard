@@ -1,0 +1,35 @@
+HOW TO USE THE GUI?
+
+About player pieces and navigation:
+
+The hat logos on the map are the officer/detective pieces.
+They are named as Detective 1 , Detective 2....Detective 5 and Mr.X.
+The available stations of a player (either an officer or Mr.X) are highlighted by a blue circle 
+Click one of them to travel to that location.
+The list becomes available (to that specific clicked station)on the ticket counter on the top left of the screen.
+There you can find the available route with the tickets you have for each route and press travel to, well travel to your clicked station.
+
+The 'DETECTIVE' and 'Mr.X' buttons can be used to know the amount of tickets a detective or Mr.X has for each route. 
+They need to be refresed to know the latest information of tickets.
+
+The 'Moves' keeps record of the moves made by the players.
+
+On top of the map there is button which shows the available station one can travel to.
+This button can be pressed to autoscroll to the current player position in case you get lost in the map.
+The map autoscrolls to the current player loctaion by default.
+The map has drag and scroll feature.
+
+
+The current player piece glows.
+
+About player turns:
+
+When its Mr.X turn, a dialogue box appears 'Mr.X ur turn'.
+The one choose to be Mr.X is supposed to click press and play.
+After his/her turn a dialog box appears showing what Mr.X has used, its need to be showed others and then the next player (detective) make there move.
+
+In case a '2x' is used by Mr.X, he/she need to show the dialog box 'Mr.X has used a 2x' to the detectives and then only should proceed or else
+its cheating.  
+
+Okay that's it!Good luck detectives and Mr.X.
+If you have any doubt contact me on my email(tanmayakumarnaik2003@gmail.com)
