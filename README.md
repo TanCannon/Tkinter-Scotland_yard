@@ -1,6 +1,7 @@
 
 # Tkinter - Scotland Yard
 
+A python implementation of the board game 'Scotland Yard'.
 This gui replictes the famous Scotland Yard.
 "Scotland Yard is a board game in which a team of players controlling different detectives cooperate to track down a player controlling a criminal as they move around a board representing the streets of London." you may have seen its ad on the tv by funskool.
 
