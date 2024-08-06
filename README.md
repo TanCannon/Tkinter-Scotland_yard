@@ -10,7 +10,7 @@ It's made with Tkinter module in python. The program uses a other similar module
 
 ## Demo video
 
-[![Watch the video](https://img.icons8.com/color/48/000000/video.png)]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1LGmJzA69A8PCcSUymUGDJFFAYqjqFXUq/view?usp=sharing))
+[![Watch the video](https://img.icons8.com/color/48/000000/video.png)](https://drive.google.com/file/d/1LGmJzA69A8PCcSUymUGDJFFAYqjqFXUq/view?usp=sharing)
 
 ## Screenshots
 
