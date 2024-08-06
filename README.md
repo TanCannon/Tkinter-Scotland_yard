@@ -8,6 +8,9 @@ This gui replictes the famous Scotland Yard.
 It's my first GUI. Currently i have learned python and i'm trying to see python capabilites or you can say application.
 It's made with Tkinter module in python. The program uses a other similar module, customTkinter. Thanks to this guy Tom Schimansky GitHub i got this amazing thing. It just make the old looking tkinter so much modern.
 
+## Demo video
+
+[![Watch the video](https://img.icons8.com/color/48/000000/video.png)]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1LGmJzA69A8PCcSUymUGDJFFAYqjqFXUq/view?usp=sharing))
 
 ## Screenshots
 
